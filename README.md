@@ -34,7 +34,12 @@ This system facilitates real-time communication between a centralized server and
 | **Default Port** | `7777` |
 | **Server IP** | `192.168.0.199` (Configurable in Client) |
 | **Protocol** | TCP (Transmission Control Protocol) |
-| **Java Version** | JDK 11 or higher |
+| **Java Version** | JDK 21 or higher |
+
+---
+
+## ✏️Note
+**Change the Server IP  by your own server IP or your computer IP**
 
 ---
 
